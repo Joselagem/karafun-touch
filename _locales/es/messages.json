@@ -1,0 +1,56 @@
+{
+    "appName": {
+        "message": "KaraFun Touch"
+    },
+    "appDesc": {
+        "message": "KaraFun Touch es una interfaz de pantalla táctil que controla KaraFun Player sin problemas. Cantar en karaoke ahora está ahora en la punta de un dedo!"
+    },
+    "queue": {
+        "message": "Cola" 
+    },
+    "search": {
+        "message": "Inserte aquí su búsqueda"
+    },
+    "connecting": {
+        "message": "Conectando con KaraFun Player..."
+    },
+    "connecting_desc": {
+        "message": "Esto le tomará sólo un segundo. Si no ocurre nada en un par de minutos, asegúrese de que KaraFun Player esté en ejecutando."
+    },
+    "pitch": {
+        "message": "Key"
+    },
+    "tempo": {
+        "message": "Tempo"
+    },
+    "lead": {
+        "message": "Lead"
+    },
+    "play_now": {
+        "message" : "Reproducir"
+    },
+    "add_to_queue": {
+        "message" : "Añadir a la Cola"
+    },
+    "cancel": {
+        "message" : "Cancelar"
+    },
+    "settings": {
+        "message" : "Opciones"
+    },
+    "portnumber": {
+        "message" : "Puerto número (usado para comunicarse con KaraFun Player)"
+    },
+    "server": {
+        "message" : "URL del Servidor"
+    },
+    "launchInFullscreen": {
+        "message" : "Ejecutar la app en pantalla completa"
+    },
+    "save": {
+        "message" : "Guardar"
+    },
+    "lyricsScreen": {
+        "message" : "Número de la pantalla secundaria"
+    }
+}
